@@ -21,7 +21,7 @@ global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia  //change indonesia to english if you don't understand the language used by the bot
+global.language = english  //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
@@ -31,8 +31,8 @@ global.ownername= "Multi device" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtu.be/dQw4w9WgXcQ" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "si797410@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.email = "yaseh76004@hdmup.com" //bebas
+global.region = "England" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['17722446655'] //premium user
 global.owner = ["17722446655"] //ganti agar fitur owner bisa di gunakan
